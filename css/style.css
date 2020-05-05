@@ -1,2 +1,8 @@
-body { 
-    background: rgb(58, 2, 2);}
+Body { background: rgb(58, 2, 2);}
+
+header {margin-left:550px; ;}
+h1{color:rgb(233, 89, 6)}
+h2{color:rgb(233, 89, 6)}
+h3{color:rgb(233, 89, 6)}
+h4{color:rgba(248, 246, 246, 0.397)}
+.Cardapio {margin-left:250px;}
